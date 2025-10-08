@@ -1,5 +1,12 @@
 LOG
 
+Biel gmail: bielgiliharik@gmail.com
+Lewis gmail: lewispinstein@gmail.com
+
+spreadsheet for controls:
+https://docs.google.com/spreadsheets/d/15B_y9Lt4vU23R9hhuVtT6RbHhSsFFPGtf5XDaz9-9wo/edit?gid=0#gid=0
+
+google doc for comments and other:
 
 We are using arcade double stick with a 0.25 bias for the drivetrain
 
